@@ -1,0 +1,1 @@
+openai_key="paste the open ai secreat key"
